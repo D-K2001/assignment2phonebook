@@ -1,0 +1,63 @@
+.title{
+    font-size:5em;
+    font-weight:900;
+    width:100%;
+    text-align:center;
+    
+    position:fixed;
+    top:0vh;
+background-color: white;
+}
+.wrapper{
+    width:100vw;
+}
+
+.list{
+  top:20vh;
+margin-top: 20vh;
+    box-shadow: 20px 20px 20px rgb(139, 131, 131);;
+    background-color:rgb(219, 219, 219);
+    width:60%;
+    margin-left:10%;
+border-radius:25px;;
+padding:5%;
+margin-bottom: 20vh;;
+    font-family: 'Sofia', sans-serif;
+}
+
+dt{
+    text-align: center;
+    background-color: rgb(66, 221, 221);
+    color:blue;
+    font-weight: 800;
+    font-size:30px;
+    margin-top:5%;
+    margin-bottom:5%;
+    
+}
+
+dd{
+    
+    text-align:center;
+    font-size:25px;
+}
+
+.gratitude{
+  position: fixed;
+  bottom:5px;
+    
+    font-size:5em;
+    font-family: 'Montserrat', sans-serif;    width:100%;
+    text-align:center;
+    padding:0px;
+    height:5vh;
+background-color: white;;
+
+width:100vw;bottom:0px;
+
+}
+
+.gratitude span{
+color:blue;
+
+}
